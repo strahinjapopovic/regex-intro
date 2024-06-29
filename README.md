@@ -401,7 +401,9 @@ Copyright © 2024, [codexdev](https://github.com/strahinjapopovic). Released und
 
 Questions about application can be reffered to the author's [GitHub repo](https://github.com/strahinjapopovic/regex-intro) or you can [Contact Me](mailto:spope.mails@gmail.com) directly over an email.
 
-Repository over [GitHub account][1] and [GitHub gist][2].
+Links available [repo][1], [gist][2], [deployed deoc][3] and [deployed app][4].
 
-[1]: https://github.com/strahinjapopovic/regex-intro     "GitHub repo"
-[2]: https://gist.github.com/strahinjapopovic            "GitHub gist"
+[1]: https://github.com/strahinjapopovic/regex-intro     "repo"
+[2]: https://gist.github.com/strahinjapopovic            "gist"
+[3]: https://strahinjapopovic.github.io/regex-intro      "deployed doc"
+[4]: https://strahinjapopovic.github.io/regex-intro/app/ "deployed app"
