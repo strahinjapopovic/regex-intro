@@ -395,13 +395,13 @@ console.log(idURL1.split(" "));
 
 ## License
 
-Copyright © 2024, [codexdev](https://github.com/strahinjapopovic/regex-intro). Released under the [MIT License](./LICENSE).
+Copyright © 2024, [codexdev](https://github.com/strahinjapopovic). Released under the [MIT License](./LICENSE).
 
 ## Questions and Contacts
 
-Questions about application can be reffered to the author's [GitHub account](https://github.com/strahinjapopovic) or you can [Contact Me](mailto:spope.mails@gmail.com) directly over an email.
+Questions about application can be reffered to the author's [GitHub repo](https://github.com/strahinjapopovic/regex-intro) or you can [Contact Me](mailto:spope.mails@gmail.com) directly over an email.
 
 Repository over [GitHub account][1] and [GitHub gist][2].
 
-[1]: https://github.com/strahinjapopovic                 "GitHub account"
+[1]: https://github.com/strahinjapopovic/regex-intro     "GitHub repo"
 [2]: https://gist.github.com/strahinjapopovic            "GitHub gist"
