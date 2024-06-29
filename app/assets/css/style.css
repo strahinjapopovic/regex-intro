@@ -1,0 +1,49 @@
+/* CSS Document */
+/* =============================================================
+ 	First Name		  : Strahinja     					    
+ 	Last Name		    : Popovic					            
+ 	Developer Name  : codexdev		        
+ 	WebMaster Email	: spope.mails@gmail.com               
+ ============================================================== */
+
+/* ***************************************************************************************** */
+/* Definition of the css stylingn variables ************************************************ */
+/* ***************************************************************************************** */
+
+:root {
+    --aqua: aqua;
+    --dark: black;
+    --light: white; 
+    --success: rgb(3, 102, 3);
+    --error: rgb(170, 28, 28);
+    --gray: rgb(240, 240, 240);
+    --gray-dark: rgb(23,23,23);
+    --naval-blue: rgba(1,33,55,1.00);
+    --electron-blue: rgb(50, 164, 240);
+    --custom-gray: rgb(175, 191, 207);
+    --light-web-blue: rgb(12, 209, 235);
+  }
+
+body {
+    color: cyan;
+    margin-left: 20%;
+    background-color: rgb(19, 20, 20);
+    font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 80px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+p span {
+    color: orange;
+    text-decoration: underline;
+}
+
+p:nth-child(2) {
+    font-size: 40px;
+    text-decoration: none;
+    color: var(--electron-blue);
+}
