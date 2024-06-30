@@ -238,7 +238,7 @@ Operator OR means one, another or both in logical comparisation. In regex expres
 OR Operator in general with example.
 
 ```js
-const regexOr = /(?:i|j|k)/; // esuvalent as /[abc]/
+const regexOr = /(?:i|j|k)/;
 console.log(regexOr.test(alpha));
 // -> true
 console.log(alpha.match(regexOr));
